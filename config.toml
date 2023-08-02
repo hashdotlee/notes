@@ -25,7 +25,7 @@ googleAnalytics = "UA-PROPERTY_ID"
 [menu]
 [[menu.main]]
   name = 'Home'
-  url = ''
+  url = '/'
   weight = 1
 [[menu.main]]
   name = 'Content'
@@ -33,19 +33,19 @@ googleAnalytics = "UA-PROPERTY_ID"
   weight = 2
 [[menu.main]]
   name = 'Articles'
-  url = 'articles'
+  url = '/articles'
   weight = 3
 [[menu.main]]
   name = 'Portfolio'
-  url = 'portfolio'
+  url = '/portfolio'
   weight = 4
 [[menu.main]]
   name = 'Stack'
-  url = 'stack'
+  url = '/stack'
   weight = 5
 [[menu.main]]
   name = 'Study'
-  url = 'study'
+  url = '/study'
   weight = 5
 [[menu.main]]
   name = 'Links'
