@@ -1,3 +1,4 @@
+relativeURLs = true
 baseURL = "https://hashdotlee.github.io/notes/"
 languageCode = "en-us"
 title = "Personal Digital Garden"
@@ -7,7 +8,7 @@ googleAnalytics = "UA-PROPERTY_ID"
 
 [Params]
   description = "My Digital Garden on the Internet"
-  images = ['/digital-garden-logo.png']
+  images = ['digital-garden-logo.png']
   enableSearch = true
 
 [Params.newsletter]
@@ -25,7 +26,7 @@ googleAnalytics = "UA-PROPERTY_ID"
 [menu]
 [[menu.main]]
   name = 'Home'
-  url = '/'
+  url = ''
   weight = 1
 [[menu.main]]
   name = 'Content'
@@ -33,19 +34,19 @@ googleAnalytics = "UA-PROPERTY_ID"
   weight = 2
 [[menu.main]]
   name = 'Articles'
-  url = '/articles'
+  url = 'articles'
   weight = 3
 [[menu.main]]
   name = 'Portfolio'
-  url = '/portfolio'
+  url = 'portfolio'
   weight = 4
 [[menu.main]]
   name = 'Stack'
-  url = '/stack'
+  url = 'stack'
   weight = 5
 [[menu.main]]
   name = 'Study'
-  url = '/study'
+  url = 'study'
   weight = 5
 [[menu.main]]
   name = 'Links'
@@ -89,7 +90,7 @@ googleAnalytics = "UA-PROPERTY_ID"
   weight = 8
 [[menu.social]]
   name = 'RSS'
-  url = '/articles/index.xml'
+  url = 'articles/index.xml'
   weight = 9
 
 
