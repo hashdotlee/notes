@@ -1,5 +1,4 @@
-relativeURLS = true
-baseURL = "https://hashdotlee.cyou/notes/"
+baseURL = "https://hashdotlee.github.io/notes/"
 languageCode = "en-us"
 title = "Personal Digital Garden"
 theme = "digitalgarden"
