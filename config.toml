@@ -1,3 +1,4 @@
+relativeURLS = true
 baseURL = "https://hashdotlee.cyou/notes/"
 languageCode = "en-us"
 title = "Personal Digital Garden"
