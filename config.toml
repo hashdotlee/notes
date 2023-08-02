@@ -1,13 +1,13 @@
 baseURL = "https://hashdotlee.github.io/notes/"
 languageCode = "en-us"
-title = "Personal Digital Garden"
+title = "Hortus"
 theme = "digitalgarden"
 
 googleAnalytics = "UA-PROPERTY_ID"
 
 [Params]
-  description = "My Digital Garden on the Internet"
-  images = ['digital-garden-logo.png']
+  description = "Hortus - Philosophy garden on Internet"
+  images = ['Hortus.jpg']
   enableSearch = true
 
 [Params.newsletter]
